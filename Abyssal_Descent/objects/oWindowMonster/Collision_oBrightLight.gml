@@ -1,0 +1,3 @@
+//destroyedwindows ++;
+instance_destroy();
+
