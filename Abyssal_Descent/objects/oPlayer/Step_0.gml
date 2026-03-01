@@ -1,4 +1,4 @@
-move_and_collide(x_speed, y_speed, oSolid)
+
 
 x_speed = 0 
 
@@ -30,6 +30,8 @@ if (keyboard_check(ord("S"))) {
     y_speed = movement_speed 
 
 }
+
+move_and_collide(x_speed, y_speed, oSolid)
 
 if(x_speed < 0) { // if heidi is moving to the left
 

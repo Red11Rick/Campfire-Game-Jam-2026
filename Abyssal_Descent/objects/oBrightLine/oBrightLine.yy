@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oWindow",
+  "%Name":"oBrightLine",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oWindow",
+  "name":"oBrightLine",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sWindow",
-    "path":"sprites/sWindow/sWindow.yy",
+    "name":"sBrightLight",
+    "path":"sprites/sBrightLight/sBrightLight.yy",
   },
   "spriteMaskId":null,
   "visible":true,
