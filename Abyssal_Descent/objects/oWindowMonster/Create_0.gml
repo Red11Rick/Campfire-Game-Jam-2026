@@ -1,4 +1,4 @@
 image_speed = 1;
 
-//destroyedwindows = 0
+destroyedwindows = 0
 

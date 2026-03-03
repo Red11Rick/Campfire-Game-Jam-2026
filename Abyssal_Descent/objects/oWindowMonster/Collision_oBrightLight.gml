@@ -1,3 +1,3 @@
-//destroyedwindows ++;
+destroyedwindows ++;
 instance_destroy();
 
