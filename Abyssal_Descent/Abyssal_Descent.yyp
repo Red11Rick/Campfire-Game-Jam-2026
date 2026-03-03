@@ -23,7 +23,6 @@
   "name":"Abyssal_Descent",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
-    {"id":{"name":"Object11","path":"objects/Object11/Object11.yy",},},
     {"id":{"name":"oBrightLight","path":"objects/oBrightLight/oBrightLight.yy",},},
     {"id":{"name":"oLine","path":"objects/oLine/oLine.yy",},},
     {"id":{"name":"oLOSESCREEN","path":"objects/oLOSESCREEN/oLOSESCREEN.yy",},},
