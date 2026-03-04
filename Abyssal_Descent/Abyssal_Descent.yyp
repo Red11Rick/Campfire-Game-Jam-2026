@@ -34,6 +34,7 @@
     {"id":{"name":"oWindow","path":"objects/oWindow/oWindow.yy",},},
     {"id":{"name":"oWindowMonster","path":"objects/oWindowMonster/oWindowMonster.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"sBox","path":"sprites/sBox/sBox.yy",},},
     {"id":{"name":"sBrightLight","path":"sprites/sBrightLight/sBrightLight.yy",},},
     {"id":{"name":"sMonster","path":"sprites/sMonster/sMonster.yy",},},

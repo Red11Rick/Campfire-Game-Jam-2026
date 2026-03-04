@@ -1,5 +1,3 @@
-
-
 x_speed = 0 
 
 y_speed = 0 
@@ -31,10 +29,6 @@ if (keyboard_check(ord("S"))) {
 
 }
 
-if (keyboard_check(ord("R"))){
-		room_restart()
-}
-
 
 move_and_collide(x_speed, y_speed, oSolid)
 
@@ -46,4 +40,12 @@ if(x_speed < 0) { // if heidi is moving to the left
 
     image_xscale = -0.6 // flip heidi's sprite
 
+}
+
+/*
+var _dir = point_direction(0, 0, _hori, _vert);
+
+if(_hori != 0 and _vert != 0){
+  xspd = lengthdir_x(move_speed, _dir)
+  yspd = lengthdir_y(move_speed, _dir)
 }
