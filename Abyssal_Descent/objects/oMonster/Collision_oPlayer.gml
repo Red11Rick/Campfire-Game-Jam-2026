@@ -1,3 +1,5 @@
 instance_destroy()
-show_message("You lose")
-game_end()
+global.sanityframe += 2
+
+
+//game_end()

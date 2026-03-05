@@ -94,6 +94,7 @@
     {"name":"inst_7A2E0BF1","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_51A5043F","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_57D0D8B5","path":"rooms/Room1/Room1.yy",},
+    {"name":"uiSanityMeter","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -214,7 +215,7 @@
   },
   "sequenceId":null,
   "views":[
-    {"hborder":320,"hport":900,"hspeed":1,"hview":176,"inherit":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"vborder":176,"visible":true,"vspeed":1,"wport":1600,"wview":320,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":320,"hport":360,"hspeed":1,"hview":176,"inherit":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"vborder":176,"visible":true,"vspeed":1,"wport":640,"wview":320,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},

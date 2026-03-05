@@ -24,15 +24,15 @@
   "name":"sPlayer",
   "nineSlice":{
     "$GMNineSliceData":"",
-    "bottom":3,
+    "bottom":17,
     "enabled":false,
     "guideColour":[4294902015,4294902015,4294902015,4294902015,],
     "highlightColour":1728023040,
-    "highlightStyle":0,
-    "left":0,
+    "highlightStyle":1,
+    "left":17,
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
-    "right":0,
+    "right":18,
     "tileMode":[
       0,
       0,
@@ -40,7 +40,7 @@
       0,
       0,
     ],
-    "top":1,
+    "top":21,
   },
   "origin":4,
   "parent":{

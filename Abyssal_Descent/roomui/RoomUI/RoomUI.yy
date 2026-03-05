@@ -1,13 +1,7 @@
 {
   "$GMRoomUI":"",
   "%Name":"RoomUI",
-  "children":[
-    {"$GMRUILayer":"v1","%Name":"UILayer_1","alignItems":2,"children":[
-        {"$GMRFlexPanel":"","%Name":"FlexPanel","alignItems":2,"children":[
-            {"$GMRTextItem":"v3","%Name":"text_CBAD595","alignment":0,"charSpacing":0.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"fontId":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_CBAD595","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"","wrap":false,"x":0.0,"y":0.0,},
-          ],"flexDirection":0,"height":{"unit":3,"value":24.0,},"justifyContent":1,"name":"FlexPanel","nodeColour":4290179656,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":127.0,},},
-      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayer_1","nodeColour":4294068456,"paddingBottom":{"unit":1,"value":90.0,},"paddingLeft":{"unit":1,"value":90.0,},"paddingRight":{"unit":1,"value":90.0,},"paddingTop":{"unit":1,"value":90.0,},"resourceType":"GMRUILayer","resourceVersion":"2.0",},
-  ],
+  "children":[],
   "locked":false,
   "name":"RoomUI",
   "parent":{
@@ -16,6 +10,12 @@
   },
   "resourceType":"GMRoomUI",
   "resourceVersion":"2.0",
-  "viewspaceChildren":[],
+  "viewspaceChildren":[
+    {"$GMRUILayer":"v1","%Name":"UILayer_1","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"flexSanityMeter","alignItems":2,"children":[
+            {"$GMRInstance":"v4","%Name":"uiSanityMeter","colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":4,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":0.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"uiSanityMeter","objectId":{"name":"oSanityMeter","path":"objects/oSanityMeter/oSanityMeter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.35,"scaleY":0.35,"x":0.0,"y":0.0,},
+          ],"flexDirection":0,"height":{"unit":1,"value":48.0,},"justifyContent":1,"name":"flexSanityMeter","nodeColour":4294068431,"positionBottom":{"unit":1,"value":0.0,},"positionLeft":{"unit":1,"value":136.0,},"positionTop":{"unit":1,"value":-66.0,},"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":48.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayer_1","nodeColour":4294068456,"paddingBottom":{"unit":1,"value":90.0,},"paddingLeft":{"unit":1,"value":90.0,},"paddingRight":{"unit":1,"value":90.0,},"paddingTop":{"unit":1,"value":90.0,},"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+  ],
   "visible":true,
 }
