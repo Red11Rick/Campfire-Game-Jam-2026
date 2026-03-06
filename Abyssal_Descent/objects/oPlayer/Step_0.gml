@@ -44,6 +44,11 @@ if (keyboard_check(ord("R"))) {
 } 
 
 
+
+
+
+
+
 move_and_collide(x_speed, y_speed, oSolid)
 
 if(x_speed < 0) { // if heidi is moving to the left
