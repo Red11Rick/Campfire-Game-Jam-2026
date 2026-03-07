@@ -25,7 +25,7 @@ if (initial_seconds == 0)
 	
 	if (random_number_generated <= spawn_opportunity)
 	{
-		instance_create_layer(x,y,"Characters",oWindowMonster);
+		instance_create_layer(x,y,"Characters",oBoxSecMonster);
 	}
 	initial_seconds = 4 * game_get_speed(gamespeed_fps)
 

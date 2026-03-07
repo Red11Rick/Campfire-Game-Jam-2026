@@ -43,11 +43,16 @@ if (keyboard_check(ord("R"))) {
 	global.sanityframe = 0
 } 
 
+var len = point_distance(0,0,x_speed,y_speed)
 
-
-
-
-
+if (len > 0)
+{
+    x_speed /= len
+    y_speed /= len
+    
+    x_speed *= movement_speed
+    y_speed *= movement_speed
+}
 
 move_and_collide(x_speed, y_speed, oSolid)
 

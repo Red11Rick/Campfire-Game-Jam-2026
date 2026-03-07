@@ -1,4 +1,4 @@
-movement_speed = 2
+movement_speed = 2.5
 
 /*right = 0
 left = 0
