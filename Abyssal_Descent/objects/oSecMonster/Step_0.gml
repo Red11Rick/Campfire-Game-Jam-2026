@@ -1,6 +1,14 @@
-
+/*
 var dir = point_direction(x, y, oPlayer.x, oPlayer.y);
 direction = dir + 180; // opposite direction
-speed = 2;
+speed = 3;
 
-move_and_collide(x_speed, y_speed, oSolid)
+place_meeting(x,y,oSolid)
+*/
+
+randomise()
+mp_potential_step(random(room_width),random(room_height), (mov_enemy_speed), false)
+
+
+
+

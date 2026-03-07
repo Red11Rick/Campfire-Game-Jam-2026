@@ -1,5 +1,6 @@
-x_speed = 0
-y_speed = 0
+xspd = 0
+yspd = 0
+mov_enemy_speed = 3
 
 oBrightLight.image_xscale = 0
 oBrightLight.image_yscale = 0

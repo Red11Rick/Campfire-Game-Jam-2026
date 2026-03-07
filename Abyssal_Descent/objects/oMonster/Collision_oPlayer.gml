@@ -1,5 +1,5 @@
 instance_destroy()
-global.sanityframe += 2
+global.sanityframe += 5
 
 
 //game_end()

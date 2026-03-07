@@ -34,7 +34,9 @@ if (keyboard_check(ord("G"))) {
     instance_destroy(oWindow)
 	instance_destroy(oWindowMonster)
 	instance_destroy(oMonster)
-
+	instance_destroy(oSecMonster)
+	instance_destroy(oBox2)
+	instance_destroy(oBoxSecMonster)
 } 
 
 if (keyboard_check(ord("R"))) { 
