@@ -9,9 +9,9 @@ if (image_index >= 27)
 
 if sanity_timer_regain == 0
 {
-	if (image_index > 0)
+	if (image_index > 2)
 		{
-			global.sanityframe -= 2
+			global.sanityframe -= 3
 		}
-	sanity_timer_regain = 10 * game_get_speed(gamespeed_fps)
+	sanity_timer_regain = 30 * game_get_speed(gamespeed_fps)
 }

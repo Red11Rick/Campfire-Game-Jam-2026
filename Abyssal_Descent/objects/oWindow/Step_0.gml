@@ -27,6 +27,6 @@ if (initial_seconds == 0)
 	{
 		instance_create_layer(x,y,"Characters",oWindowMonster);
 	}
-	initial_seconds = 4 * game_get_speed(gamespeed_fps)
+	initial_seconds = 5 * game_get_speed(gamespeed_fps)
 
 }
