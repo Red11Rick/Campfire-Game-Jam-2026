@@ -1,1 +1,1 @@
-instance_create_layer(40,40,"Characters",oSecMonster);
+/*instance_create_layer(40,40,"Characters",oSecMonster);

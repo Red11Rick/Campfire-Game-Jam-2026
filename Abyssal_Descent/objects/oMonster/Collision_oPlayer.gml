@@ -1,3 +1,2 @@
 instance_destroy()
-global.sanityframe += 7
-
+global.sanityframe += 4

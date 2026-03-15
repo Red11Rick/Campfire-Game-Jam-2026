@@ -28,7 +28,7 @@ if (keyboard_check(ord("S"))) {
     y_speed = movement_speed 
 
 }
-
+/*
 if (keyboard_check(ord("G"))) { 
 
     instance_destroy(oWindow)
@@ -59,7 +59,7 @@ if (keyboard_check(ord("R"))) {
     room_restart()
 	global.sanityframe = 0
 } 
-
+*/
 var len = point_distance(0,0,x_speed,y_speed)
 
 if (len > 0)

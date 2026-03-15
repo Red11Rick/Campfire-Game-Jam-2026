@@ -15,7 +15,7 @@ wait_for_next_path --
 randomise()
 
 if wait_for_next_path == 0 {
-	x = random(room_width)
+	x = random(room_width) 
 	y = random(room_height)
 	wait_for_next_path = 1.15 * game_get_speed(gamespeed_fps)
 }

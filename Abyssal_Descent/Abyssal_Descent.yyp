@@ -11,8 +11,8 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"fonts","folderPath":"folders/fonts.yy","name":"fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"sounds","folderPath":"folders/sounds.yy","name":"sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"sounds","folderPath":"folders/sounds.yy","name":"sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[
@@ -32,6 +32,7 @@
     {"id":{"name":"oBoxSecMonster","path":"objects/oBoxSecMonster/oBoxSecMonster.yy",},},
     {"id":{"name":"oBrightLight","path":"objects/oBrightLight/oBrightLight.yy",},},
     {"id":{"name":"oDrawGUI","path":"objects/oDrawGUI/oDrawGUI.yy",},},
+    {"id":{"name":"oDrawGUIReadDesc","path":"objects/oDrawGUIReadDesc/oDrawGUIReadDesc.yy",},},
     {"id":{"name":"oMonster","path":"objects/oMonster/oMonster.yy",},},
     {"id":{"name":"oMusicController","path":"objects/oMusicController/oMusicController.yy",},},
     {"id":{"name":"oObstacle","path":"objects/oObstacle/oObstacle.yy",},},

@@ -3,19 +3,19 @@ initial_seconds--
 switch(global.wintimer / game_get_speed(gamespeed_fps))
 {
 	case 120:
-		spawn_opportunity = 7.5
+		spawn_opportunity = 7
 	break;
 	
 	case 90:
-		spawn_opportunity = 10
+		spawn_opportunity = 9.25
 	break;
 	
 	case 60:
-		spawn_opportunity = 12.5
+		spawn_opportunity = 11.5
 	break;
 	
 	case 30:
-		spawn_opportunity = 15
+		spawn_opportunity = 13.75
 	break;
 }
 
